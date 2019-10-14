@@ -1,0 +1,6 @@
+This is the work done for the release 1.0.0
+
+- feature/1
+- feature/2
+- feature/3
+- feature/4
